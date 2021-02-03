@@ -1,0 +1,2 @@
+# yoshetugastechnicalpage
+Created with CodeSandbox
